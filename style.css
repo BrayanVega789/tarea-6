@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Architects Daughter', cursive;
+    *{
+        text-align: center;
+    }
+    *{
+        text-align: center;
+    }
+    div ul button{
+        color:blue;
+        background: ;
+        font-size: 15px;
+        font-weight: 400;
+        padding: 8px 10px;
+        border-radius: 3px;
+        transition: all 0.3s ease;
+    }
+    div ul button:hover{
+        color: white;
+        background: black;
+    }
